@@ -1,3 +1,6 @@
+
+//changes to understand conflicts var temp=True
+
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
