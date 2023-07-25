@@ -9,7 +9,7 @@ public:
                 i=mid;
             }
             else j=mid-1
-        }
+        }//tere bhai ki bhosdi
         return i;
     }
 };
