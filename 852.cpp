@@ -1,3 +1,5 @@
+//changes made to see conflict var=55
+
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
